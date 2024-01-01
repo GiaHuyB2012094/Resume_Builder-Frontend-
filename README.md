@@ -5,6 +5,6 @@
 ### UI Before Creation Resume
 ![resumeB](/my-app/public/ResumeBeforeCreation.png)
 ### UI Download Resume
-![resumeD](/my-app/public/DownloadResume.jpg)
+![resumeD](./src/assets/DownloadResume.jpg)
 ### UI After Creation Resume
 ![resumeA](/my-app/public//ResumeAfterCreation.png)
